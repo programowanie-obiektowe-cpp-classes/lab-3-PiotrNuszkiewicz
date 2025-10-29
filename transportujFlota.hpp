@@ -4,6 +4,8 @@
 
 unsigned int transportujFlota(unsigned int towar)
 {
+
+
     // Twoja implementacja tutaj
     return 0;
 }
